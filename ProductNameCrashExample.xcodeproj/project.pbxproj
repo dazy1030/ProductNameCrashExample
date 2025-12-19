@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		E9ABF1FE2EF4E9C100728591 /* ProductNameCrashExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProductNameCrashExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E9ABF1FE2EF4E9C100728591 /* クラッシュサンプル.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "クラッシュサンプル.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		E9ABF1FF2EF4E9C100728591 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E9ABF1FE2EF4E9C100728591 /* ProductNameCrashExample.app */,
+				E9ABF1FE2EF4E9C100728591 /* クラッシュサンプル.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,7 +67,7 @@
 			packageProductDependencies = (
 			);
 			productName = ProductNameCrashExample;
-			productReference = E9ABF1FE2EF4E9C100728591 /* ProductNameCrashExample.app */;
+			productReference = E9ABF1FE2EF4E9C100728591 /* クラッシュサンプル.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -265,7 +265,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = dazy.ProductNameCrashExample;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "クラッシュサンプル";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
@@ -297,7 +297,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = dazy.ProductNameCrashExample;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "クラッシュサンプル";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
